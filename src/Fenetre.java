@@ -136,7 +136,7 @@ public class Fenetre extends JFrame implements ActionListener
 					}
 					catch(ClassNotFoundException e2)
 					{
-						System.out.println("Erreur lors du chargement du driver: "+e2);
+						System.out.println("Erreur de chargement du driver: "+e2);
 					}
 				}
 			}
